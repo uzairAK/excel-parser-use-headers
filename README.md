@@ -1,6 +1,6 @@
 ﻿# excel-parser-use-headers
 
-This project was developed for the purpose of logging the data into sql.
+This project was developed for the purpose of logging the data from excel into sql.
 
 ## Usage
 Set your sql server information and then run using:
